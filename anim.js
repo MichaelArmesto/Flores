@@ -31,7 +31,7 @@ var lyricsData = [
   { text: "Até o mundo acabar", start: 123 },
   { text: "Até o mundo acabar", start: 129 },
 
-  { text: "Mas talvez, você não entenda?'", start: 138 },
+  { text: "Mas talvez, você não entenda?", start: 138 },
   { text: "Essa coisa de fazer o mundo acreditar", start: 142 },
   { text: "Que o meu amor", start: 149 },
   { text: "Não será passageiro", start: 151 },

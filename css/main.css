@@ -34,14 +34,14 @@ body {
   /* Estilos específicos para dispositivos con un ancho máximo de 600px */
   #lyrics {
       font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
-      margin-bottom: 40vh;
+      margin-bottom: 45vh;
       letter-spacing: 3px;
       text-align: center;
   }
 
 }
 .titulo {
-  margin-bottom: 55vh;
+  margin-bottom: 50vh;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: yellow;
   font-size: 22px;
